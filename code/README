@@ -1,7 +1,7 @@
 Building Instructions:
  * got to the directory build.<host>, where <host> is your working OS
  * do a "make depend" to build depenencies (DO IT!)
- * do a "make" to build NachOS
+ * do a "make" to build Nach
 
 Usage:
 see "nachos -u" for all command line options
